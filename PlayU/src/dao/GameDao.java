@@ -1,3 +1,9 @@
+/*
+ * Copyright (c) PlayU
+ * 2018-5-19
+ * by YSH
+ */
+
 package dao;
 
 import bean.Game;

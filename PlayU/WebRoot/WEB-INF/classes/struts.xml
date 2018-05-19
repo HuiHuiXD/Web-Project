@@ -8,7 +8,7 @@
     <constant name="struts.i18n.encoding" value="UTF-8"/>
     <package name="default" extends="struts-default">
         <action name="*Game" class="actions.GameAction" method="{1}Game">
-            <result name="success">add_game.jsp</result>
+            <result name="success">/admin/add_game.jsp</result>
          <allowed-methods>saveGame</allowed-methods>
         </action>
     </package>
