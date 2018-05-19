@@ -14,5 +14,6 @@
 *.tar.gz
 *.rar
 
+/idea/
 /out/
 /ancient/
