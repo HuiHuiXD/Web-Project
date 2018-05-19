@@ -13,3 +13,6 @@
 *.zip
 *.tar.gz
 *.rar
+
+/out/
+/ancient/
