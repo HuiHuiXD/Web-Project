@@ -1,0 +1,46 @@
+@CHARSET "UTF-8";
+
+*{
+	 background:url(../images/b.jpg);
+	 color:white;
+}
+#platform{
+	width: 200px;
+	height: 25px;
+	margin:0 auto;
+	padding-left: 5px;
+	font-size: 20px;
+	padding-bottom: 5px;
+	color:black;
+	background:url(../images/背景4.jpg) repeat scroll right center;
+}
+#addgame{
+	width: 200px;
+	height: 25px;
+	margin:0 auto;
+	padding-left: 5px;
+	font-size: 20px;
+	padding-bottom: 5px;
+	color:black;
+	background:url(../images/背景4.jpg) repeat scroll right center;
+}
+#user{
+	width: 200px;
+	height: 25px;
+	margin:0 auto;
+	padding-left: 5px;
+	font-size: 20px;
+	padding-bottom: 5px;
+	color:black;
+	background:url(../images/背景4.jpg) repeat scroll right center;
+}
+#manager{
+	width: 200px;
+	height: 25px;
+	margin:0 auto;
+	padding-left: 5px;
+	font-size: 20px;
+	padding-bottom: 5px;
+	color:black;
+	background:url(../images/背景4.jpg) repeat scroll right center;
+}

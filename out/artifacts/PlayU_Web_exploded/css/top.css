@@ -1,0 +1,25 @@
+@CHARSET "UTF-8";
+ .top{
+     height: 35px;
+     width: 100%;
+     background-color: lightskyblue;
+     padding-top: 5px ;
+     font: 18px/1.5 tahoma,arial,"\5b8b\4f53";
+     font-family: "幼圆",tahoma,arial,'Hiragino Sans GB','\5b8b\4f53',sans-serif;
+     color:#004040;
+    overflow: hidden;
+}
+.top-l{
+    height: 28px;
+    width: 400px ;
+    float: left;
+    margin-left: 125px;
+    overflow: hidden;
+}
+ .top-r{
+     height: 28px;
+     width: 300px ;
+     float: right;
+     padding-right: 100px;
+    overflow: hidden;
+ }

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD//EN"
+        "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+    <class name="bean.Game" table="games">
+        <id name="id" column="g_id" length="11">
+            <generator class="increment"/>
+        </id>
+        <property name="name" column="g_name" length="100"/>
+        <property name="type" column="g_type" length="100"/>
+        <property name="price" column="g_price"/>
+        <property name="img" column="g_img" length="200"/>
+        <property name="msg" column="g_msg" length="200"/>
+    </class>
+</hibernate-mapping>

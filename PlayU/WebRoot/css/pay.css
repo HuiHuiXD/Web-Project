@@ -1,0 +1,52 @@
+@CHARSET "UTF-8";
+
+body {
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	background: #1B1616;
+}
+
+.product-middle2 {
+	float: center;
+	width: 40%;
+	border-left: 1px solid #dfdfdf;
+	border-right: 1px solid #dfdfdf;
+	padding: 1px 0;
+	background: #f9f9f9;
+}
+
+.ce {
+	float: center;
+	text-align: center;
+}
+
+.sel {
+	font-size: 20px;
+	width: 40%;
+	padding: .5em;
+	border: 1px solid #ddd;
+	outline: none;
+}
+
+.product-bottom {
+	text-align: center;
+	margin-top: 2em;
+}
+
+.product-bottom a {
+	background: #eee;
+	font-size: 1em;
+	padding: .5em 1em;
+	display: block;
+	width: 11%;
+	float: left;
+	color: #222;
+	margin-top: 1em;
+	border-radius: 2px;
+}
+
+.product-bottom h3 {
+	font-size: 1.3em;
+	color: #fff;
+	font-family: 'Montserrat', sans-serif;
+}
